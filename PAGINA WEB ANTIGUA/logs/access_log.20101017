@@ -1,0 +1,8 @@
+66.249.66.195 - - [17/Oct/2010:08:29:35 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Googlebot-Image/1.0" "-"
+66.249.66.195 - - [17/Oct/2010:08:29:35 +0200] "GET /testing/images/logo.jpg HTTP/1.1" 404 504 "-" "Googlebot-Image/1.0" "-"
+66.249.66.195 - - [17/Oct/2010:08:36:44 +0200] "GET /usados.php?zon=51 HTTP/1.1" 200 6231 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+207.46.194.103 - - [17/Oct/2010:12:11:47 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" "-"
+207.46.194.103 - - [17/Oct/2010:12:11:47 +0200] "GET /images/banner2.jpg HTTP/1.1" 200 104561 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" "-"
+207.46.194.103 - - [17/Oct/2010:12:11:49 +0200] "GET / HTTP/1.1" 200 4117 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" "-"
+207.46.13.93 - - [17/Oct/2010:20:59:11 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-"
+207.46.13.93 - - [17/Oct/2010:21:01:01 +0200] "GET /legal.html HTTP/1.1" 304 132 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-"

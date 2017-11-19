@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WSR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-16 18:37-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: alex <alex@bocetos.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: E:\\Trabajo\\wamp\\www\\wsr\\\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: apartamentos.php:329
+msgid "Ficha de Presentación"
+msgstr "Resort"
+
+#: apartamentos.php:331
+msgid "Ubicación y entorno"
+msgstr "Localiza&ccedil;&atilde;o e accesos"
+
+#: apartamentos.php:333
+msgid "Tipologías y Planos"
+msgstr "Casas e pre&ccedil;os"
+
+#: apartamentos.php:335
+msgid "Precio y forma de pago"
+msgstr "Pre&ccedil;o e Pagamento"
+
+#: apartamentos.php:337
+msgid "Información útil"
+msgstr "Informa&ccedil;&atilde;o e servi&ccedil;os"
+
+#: apartamentos.php:339
+msgid "Enviar a un amigo"
+msgstr "Contacte-nos"
+
+#: apartamentos.php:353
+msgid "Zona: "
+msgstr "&aacute;rea:"
+
+#: apartamentos.php:355
+msgid "Direccion: "
+msgstr "endere&ccedil;o:"
+
+#: apartamentos.php:362
+msgid "Precio: "
+msgstr "Pre&ccedil;o:"
+
+#: apartamentos.php:365
+msgid "Caracteristicas: "
+msgstr "Recursos:"
+
+#: apartamentos.php:365
+msgid "dormitorios"
+msgstr "quarto"
+
+#: apartamentos.php:407
+#: contacto.php:27
+msgid "Su mensaje ha sido enviado correctamente"
+msgstr "Sua mensagem foi enviada com sucesso!"
+
+#: apartamentos.php:425
+msgid "Su Nombre *"
+msgstr "Seu Nome *"
+
+#: apartamentos.php:429
+#: apartamentos.php:441
+#: apartamentos.php:485
+#: contacto.php:43
+msgid "Email *"
+msgstr "Email *"
+
+#: apartamentos.php:437
+msgid "Su amigo *"
+msgstr "Seu amigo *"
+
+#: apartamentos.php:449
+#: apartamentos.php:491
+#: contacto.php:49
+msgid "Mensaje"
+msgstr "Mensagem"
+
+#: apartamentos.php:465
+#: apartamentos.php:498
+#: contacto.php:56
+msgid "Enviar"
+msgstr "Enviar"
+
+#: apartamentos.php:479
+#: contacto.php:37
+msgid "Nombre *"
+msgstr "Nome *"
+
+#: apartamentos.php:481
+#: contacto.php:39
+msgid "Apellidos"
+msgstr "Sobrenome"
+
+#: apartamentos.php:487
+#: contacto.php:45
+msgid "Telefono"
+msgstr "Telefone"
+
+#: apartamentos.php:506
+#: contacto.php:62
+msgid "Los campos marcados con el asterisco (*) son obligatorios"
+msgstr "Os campos marcados com um asterisco (*) s&atilde;o obrigat&oacute;rios"
+
+#: apartamentos.php:530
+#: modulos.php:248
+msgid "Ver los apartamentos de segunda mano en esta zona"
+msgstr "Ver turismo apartamentos nesta &aacute;rea"
+
+#: apartamentos.php:542
+msgid "Link permanente: "
+msgstr "Permanent Link:"
+
+#: comandos.php:50
+msgid "Estimado "
+msgstr "Querido"
+
+#: comandos.php:53
+msgid "Te ha enviado el anuncio del apartamento"
+msgstr "Has sent the notice of the apartment"
+
+#: comandos.php:55
+msgid " de "
+msgstr "de"
+
+#: comandos.php:59
+msgid "con el siguiente mensaje:"
+msgstr "com a seguinte mensagem:"
+
+#: comandos.php:64
+msgid "ha visto el apartamento de tu sueños"
+msgstr "viu o apartamento dos seus sonhos"
+
+#: contacto.php:17
+#: contacto.php:21
+#: sitemap.php:28
+msgid "Contacto"
+msgstr "Contacte-nos"
+
+#: index.php:38
+msgid "Otras zonas"
+msgstr "Outras &aacute;reas"
+
+#: modulos.php:30
+msgid "Obra nueva"
+msgstr "Novo Edif&iacute;cio"
+
+#: modulos.php:35
+msgid "No hay obras nuevas cargadas para esta zona"
+msgstr "Nenhuma obra nova enviados para esta &aacute;rea"
+
+#: quienes.php:9
+#: quienes.php:13
+#: sitemap.php:26
+msgid "Quiénes somos"
+msgstr "Sobre N&oacute;s"
+
+#: quienes.php:15
+msgid "Historia"
+msgstr "Hist&oacute;ria"
+
+#: quienes.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim fermentum fermentum. Nam eget facilisis ante. In mollis mauris non lacus congue at luctus velit venenatis. Praesent fringilla ultricies nisl, a feugiat turpis rutrum ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus fringilla nibh vitae nisl malesuada sit amet luctus velit sagittis. Nullam viverra lobortis massa iaculis cursus. Ut sed purus sed lectus molestie bibendum sit amet quis nunc. In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim fermentum fermentum. Nam eget facilisis ante. In mollis mauris non lacus congue at luctus velit venenatis. Praesent fringilla ultricies nisl, a feugiat turpis rutrum ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus fringilla nibh vitae nisl malesuada sit amet luctus velit sagittis. Nullam viverra lobortis massa iaculis cursus. Ut sed purus sed lectus molestie bibendum sit amet quis nunc. In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus."
+
+#: quienes.php:18
+msgid "Casas a precios de hoy"
+msgstr " "
+
+#: quienes.php:19
+msgid "Maecenas semper rutrum malesuada. Pellentesque luctus felis vehicula nulla iaculis tincidunt. Aenean et nunc libero. Nunc pulvinar ultrices elit, ut placerat libero elementum a. Aenean blandit cursus mi, vitae aliquet dui venenatis eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam blandit, mauris vitae vestibulum condimentum, est felis dictum nunc, et congue lacus tortor sed odio. Vestibulum a risus id turpis imperdiet vehicula. Integer eget sem felis, eget mattis quam.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi."
+msgstr "Maecenas semper rutrum malesuada. Pellentesque luctus felis vehicula nulla iaculis tincidunt. Aenean et nunc libero. Nunc pulvinar ultrices elit, ut placerat libero elementum a. Aenean blandit cursus mi, vitae aliquet dui venenatis eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam blandit, mauris vitae vestibulum condimentum, est felis dictum nunc, et congue lacus tortor sed odio. Vestibulum a risus id turpis imperdiet vehicula. Integer eget sem felis, eget mattis quam.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi."
+
+#: sitemap.php:9
+msgid "Mapa del Sitio"
+msgstr "Mapa do site"
+
+#: sitemap.php:12
+msgid "Inicio"
+msgstr "In&iacute;cio"
+
+#: sitemap.php:13
+#: zonas.php:10
+msgid "Zonas"
+msgstr "Zonas"
+
+#: sitemap.php:27
+msgid "Colabora con nosotros"
+msgstr "Colabora connosco "
+
+#: usados.php:55
+msgid "Segunda mano"
+msgstr "Turismo"
+
+#: usados.php:77
+msgid "Ver las obras nuevas en esta zona"
+msgstr "Veja novas obras nesta &aacute;rea"
+
+#: apartamentos/listado.inc.php:198
+msgid "No hay apartamentos cargados para esta zona"
+msgstr "N&atilde;o h&aacute; qualquer taxa para este dom&iacute;nio de apartamentos"
+
+#: apartamentos/listado.inc.php:202
+msgid "No hay apartamentos que coincidan con la búsqueda"
+msgstr "H&aacute; apartamentos que correspondem &agrave; sua pesquisa"
+
+#: includes/foot.php:4
+msgid "Mapa del sitio"
+msgstr "Mapa do Site"
+
+#: includes/foot.php:7
+msgid "Aviso legal"
+msgstr "Aviso legal"
+
+#: includes/foot.php:8
+msgid "Política de privacidad"
+msgstr "Pol&iacute;tica de privacidade"
+
+#: includes/header.php:5
+msgid "White Sand Resorts"
+msgstr "White Sand Resorts"
+
+#: includes/header.php:21
+msgid "Idioma:"
+msgstr "L&iacute;ngua:"
+
+#: includes/header.php:34
+msgid "637 728 733 / "
+msgstr "637 728 733 / "
+
+#: includes/header.php:43
+msgid "Casas a precios"
+msgstr " "
+
+#: includes/header.php:43
+msgid "de hoy u otro claim"
+msgstr " "
+
+#: scripts/buscador.php:7
+msgid "Debes ingresar como mínimo un dato a buscar"
+msgstr "Voc&ecirc; deve digitar pelo menos uma pesquisa de dados"
+
+#: scripts/buscador.php:18
+msgid "El precio máximo debe ser mayor al precio mínimo"
+msgstr "O pre&ccedil;o m&aacute;ximo deve ser maior que o pre&ccedil;o m&iacute;nimo"
+
+#: scripts/buscador.php:24
+msgid "ingrese el precio mínimo y máximo para realizar la búsqueda por precios"
+msgstr "Digite a busca m&iacute;nimos e m&aacute;ximos por pre&ccedil;o"
+
+#: scripts/buscador.php:39
+#: scripts/buscador.php:71
+msgid "Ingrese su nombre"
+msgstr "Digite seu nome"
+
+#: scripts/buscador.php:43
+#: scripts/buscador.php:75
+msgid "Ingrese su dirección de correo"
+msgstr "Digite seu e-mail"
+
+#: scripts/buscador.php:47
+#: scripts/buscador.php:79
+#: scripts/buscador.php:92
+msgid "El correo ingresado es incorrecto o está mal escrito"
+msgstr "O e-mail digitado est&aacute; incorreto ou incorreto"
+
+#: scripts/buscador.php:51
+msgid "Ingrese su mensaje"
+msgstr "Digite sua mensagem"
+
+#: scripts/buscador.php:84
+msgid "Ingrese el nombre de su amigo"
+msgstr "Digite o nome do seu amigo"
+
+#: scripts/buscador.php:88
+msgid "Ingrese la dirección de correo de su amigo"
+msgstr "Digite o endere&ccedil;o de email do seu amigo"
+
+#~ msgid "Avalia Inmobiliaria"
+#~ msgstr "Avalia Inmobiliaria"
+#~ msgid "902 658 655 / Contacto"
+#~ msgstr "902 658 655 / Contact"
+#~ msgid "Esta página está en castellano"
+#~ msgstr "this page bla bla"
+

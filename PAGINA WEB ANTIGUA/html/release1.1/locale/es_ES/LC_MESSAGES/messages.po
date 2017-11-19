@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prueba\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-28 11:46-1200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: alex <alex@bocetos.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: D:\\Trabajo\\wamp\\www\\whitesandresorts\\\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: version 1/modulos.php:30
+msgid "Obra nueva"
+msgstr ""
+
+#: version 1/modulos.php:35
+msgid "No hay obras nuevas cargadas para esta zona"
+msgstr ""
+
+#: version 1/modulos.php:248
+#: 1/apartamentos.php:260
+msgid "Ver los apartamentos de segunda mano en esta zona"
+msgstr "Ver los apartamentos de turismo en esta zona"
+
+#: version 1/apartamentos.php:172
+msgid "Ficha de Presentación"
+msgstr "Resort"
+
+#: version 1/apartamentos.php:173
+msgid "Ubicación y entorno"
+msgstr "Localizaci&oacute;n y Accesos"
+
+#: version 1/apartamentos.php:174
+msgid "Tipologías y Planos"
+msgstr "Viviendas y Precios"
+
+#: version 1/apartamentos.php:175
+msgid "Precio y forma de pago"
+msgstr "Entorno y actividades"
+
+#: version 1/apartamentos.php:176
+msgid "Información útil"
+msgstr "Informaci&oacute;n y Servicios"
+
+#: version 1/apartamentos.php:177
+msgid "Enviar a un amigo"
+msgstr "Contacto"
+
+#: version 1/apartamentos.php:184
+msgid "Zona: "
+msgstr ""
+
+#: version 1/apartamentos.php:185
+msgid "Direccion: "
+msgstr "Direcci&oacute;n:"
+
+#: version 1/apartamentos.php:190
+msgid "Caracteristicas: "
+msgstr ""
+
+#: version 1/apartamentos.php:190
+msgid "dormitorios"
+msgstr ""
+
+#: version 1/apartamentos.php:199
+msgid "Precio: "
+msgstr ""
+
+#: version 1/apartamentos.php:211
+#: 1/contacto.php:27
+msgid "Su mensaje ha sido enviado correctamente"
+msgstr ""
+
+#: version 1/apartamentos.php:220
+msgid "Su Nombre *"
+msgstr ""
+
+#: version 1/apartamentos.php:222
+#: 1/apartamentos.php:228
+#: 1/contacto.php:43
+msgid "Email *"
+msgstr ""
+
+#: version 1/apartamentos.php:226
+msgid "Su amigo *"
+msgstr ""
+
+#: version 1/apartamentos.php:232
+#: 1/contacto.php:49
+msgid "Mensaje"
+msgstr ""
+
+#: version 1/apartamentos.php:240
+#: 1/contacto.php:56
+msgid "Enviar"
+msgstr ""
+
+#: version 1/apartamentos.php:248
+#: 1/contacto.php:62
+msgid "Los campos marcados con el asterisco (*) son obligatorios"
+msgstr ""
+
+#: version 1/apartamentos.php:266
+msgid "Link permanente: "
+msgstr ""
+
+#: version 1/comandos.php:50
+msgid "Estimado "
+msgstr ""
+
+#: version 1/comandos.php:53
+msgid "Te ha enviado el anuncio del apartamento"
+msgstr ""
+
+#: version 1/comandos.php:55
+msgid " de "
+msgstr ""
+
+#: version 1/comandos.php:59
+msgid "con el siguiente mensaje:"
+msgstr ""
+
+#: version 1/comandos.php:64
+msgid "ha visto el apartamento de tu sueños"
+msgstr ""
+
+#: version 1/contacto.php:17
+#: 1/contacto.php:21
+#: 1/sitemap.php:28
+msgid "Contacto"
+msgstr ""
+
+#: version 1/contacto.php:37
+msgid "Nombre *"
+msgstr ""
+
+#: version 1/contacto.php:39
+msgid "Apellidos"
+msgstr ""
+
+#: version 1/contacto.php:45
+msgid "Telefono"
+msgstr ""
+
+#: version 1/index.php:38
+msgid "Otras zonas"
+msgstr ""
+
+#: version 1/quienes.php:9
+#: 1/quienes.php:13
+#: 1/sitemap.php:26
+msgid "Quiénes somos"
+msgstr ""
+
+#: version 1/quienes.php:15
+msgid "Historia"
+msgstr " "
+
+#: version 1/quienes.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim fermentum fermentum. Nam eget facilisis ante. In mollis mauris non lacus congue at luctus velit venenatis. Praesent fringilla ultricies nisl, a feugiat turpis rutrum ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus fringilla nibh vitae nisl malesuada sit amet luctus velit sagittis. Nullam viverra lobortis massa iaculis cursus. Ut sed purus sed lectus molestie bibendum sit amet quis nunc. In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus."
+msgstr "<p>QU&Eacute;  HACEMOS</p><p>WHITE  SAND RESORTS es una empresa espa&ntilde;ola, con sede en Madrid, dedicada a la  prestaci&oacute;n de servicios de consultor&iacute;a e intermediaci&oacute;n dentro del sector  inmobiliario y tur&iacute;stico, especializados en la <strong>comercializaci&oacute;n de viviendas  tur&iacute;sticas de segunda residencia</strong>,  principalmente <strong>en promociones de obra nueva</strong> de importantes compa&ntilde;&iacute;as  promotoras nacionales y extranjeras.</p><p>D&Oacute;NDE  TRABAJAMOS</p><p>Los  diferentes productos ofrecidos en esta web constituyen una cuidada selecci&oacute;n de  promociones situadas principalmente en <strong>Espa&ntilde;a y Portugal</strong>. Nuestra  actividad se desarrolla en las siguientes direcciones:</p><ul>  <li>Resorts  situados en Portugal, dirigidos a compradores espa&ntilde;oles y de otros pa&iacute;ses  europeos.</li>  <li>Promociones  en Espa&ntilde;a, para clientes tanto espa&ntilde;oles como portugueses, y del resto de  Europa.</li></ul><p>&nbsp;</p><p>A  QUI&Eacute;N NOS DIRIGIMOS</p><ul>  <li><strong>Compradores finales</strong>, es decir, aquellas personas que  comprar&aacute;n con el <strong>objetivo</strong> principal  de tener una <strong>segunda residencia</strong> <strong>para su uso y disfrute</strong>, adem&aacute;s de <strong>obtener  una rentabilidad mediante la futura revalorizaci&oacute;n de los activos</strong>. </li></ul><p>En aquellas promociones en las que sea posible,  tambi&eacute;n podr&aacute;n optar por minimizar el mantenimiento de sus propiedades mediante  la cesi&oacute;n de las mismas para su utilizaci&oacute;n tur&iacute;stica durante determinados  periodos, o bien mediante el alquiler.</p><ul>  <li><strong>Inversores con</strong> <strong>inter&eacute;s  especial en obtener una rentabilidad a corto y medio plazo</strong>, consiguiendo no  s&oacute;lo una revalorizaci&oacute;n natural de los activos sino tambi&eacute;n rentas a corto  plazo v&iacute;a explotaci&oacute;n tur&iacute;stica de las unidades de alojamiento.</li></ul><p>C&Oacute;MO  TRABAJAMOS</p><p>Nuestro objetivo es ser un intermediario eficaz en las  relaciones comerciales entre promotor y cliente final, buscando generar valor  mediante la adecuaci&oacute;n de los intereses de las diferentes partes que  intervienen en el proceso de compra y venta.<br>  <br>  <strong><em>Ventaja diferencial</em></strong></p><p>As&iacute;, de cara al <strong>promotor</strong>, nos encargamos de  realizar una <strong>captaci&oacute;n activa de potenciales clientes en determinadas zonas  o pa&iacute;ses donde no pueden llegar con facilidad</strong>. Realizamos un estudio y  segmentaci&oacute;n de esa demanda, con el fin de dirigir lo m&aacute;s eficaz y  eficientemente posible a los compradores hacia el producto m&aacute;s adecuado a sus  preferencias, maximizando as&iacute; las posibilidades de &eacute;xito de cada operaci&oacute;n.</p><p>Gestionamos todo el proceso de compra, desde la campa&ntilde;a de  marketing y publicidad para la captaci&oacute;n de clientes hasta la venta en  escritura p&uacute;blica.</p><p>El proceso se completa con la actuaci&oacute;n <strong>posventa</strong>, en la cual se valora el grado  de satisfacci&oacute;n del cliente con el producto adquirido, este informe final  permite al promotor analizar las directrices seguidas y plantear futuras  acciones de marketing.</p><p>Al <strong>comprador</strong> le ofrecemos las m&aacute;s interesantes promociones tur&iacute;sticas que puede encontrar en  estos momentos en la pen&iacute;nsula ib&eacute;rica.</p><p>Acompa&ntilde;amos  y asesoramos a los clientes durante todo el proceso, lo que resulta de especial  utilidad cuando la compra se realiza en un pa&iacute;s extranjero.</p><p>Queremos transmitir al comprador tres ideas: </p><ul>  <li><strong>representamos  a promotores serios y solventes;</strong></li>  <li><strong>las promociones ofertadas son una excelente combinaci&oacute;n de calidad, servicios, ocio e inversi&oacute;n  que ofrecen elementos diferenciadores;</strong></li>  <li><strong>los precios de  los productos que comercializamos se ajustan a la realidad actual</strong>. </li></ul><p>&nbsp;</p><p><strong>As&iacute;,  nuestra cartera de productos se constituye seg&uacute;n estos criterios.</strong><strong>&nbsp;</strong></p><p>&nbsp;</p><p>EL  EQUIPO</p><p>Los profesionales  de nuestra empresa presentan unas cualidades que constituyen otro elemento  diferenciador para garantizar el &eacute;xito de actuaci&oacute;n: </p><ul>  <li>Amplia <strong>experiencia</strong> en el sector inmobiliario, que permite un elevado conocimiento de las  diferentes fases del proceso de compra.</li></ul><p>El cliente siempre encontrar&aacute; consejo y orientaci&oacute;n con nuestros  profesionales.</p><ul>  <li>Profundo <strong>conocimiento  de ambos pa&iacute;ses y dominio de su idioma, cultura, costumbres, etc.,</strong> lo cual  facilita y hace m&aacute;s fluida la comunicaci&oacute;n con promotores y compradores de  ambos lados de la frontera.</li></ul>"
+
+#: version 1/quienes.php:18
+msgid "Casas a precios de hoy"
+msgstr ""
+
+#: version 1/quienes.php:19
+msgid "Maecenas semper rutrum malesuada. Pellentesque luctus felis vehicula nulla iaculis tincidunt. Aenean et nunc libero. Nunc pulvinar ultrices elit, ut placerat libero elementum a. Aenean blandit cursus mi, vitae aliquet dui venenatis eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam blandit, mauris vitae vestibulum condimentum, est felis dictum nunc, et congue lacus tortor sed odio. Vestibulum a risus id turpis imperdiet vehicula. Integer eget sem felis, eget mattis quam.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi. Etiam vehicula faucibus massa. Fusce in nisl dui, eget laoreet risus.  In et ipsum magna. Integer et ipsum lectus, ac laoreet odio. Nulla sit amet laoreet ipsum. Fusce non sollicitudin nisi."
+msgstr "<p>POR QU&Eacute;  UTILIZAR NUESTROS SERVICIOS</p><p><strong>El  mercado inmobiliario espa&ntilde;ol</strong> ha cambiado  notablemente en los &uacute;ltimos tiempos, y ya no son suficientes las t&eacute;cnicas  empleadas por la mayor&iacute;a de las empresas comercializadoras del sector.</p><p>La  comercializaci&oacute;n de viviendas en la costa espa&ntilde;ola se ha convertido en una  empresa complicada que requiere de una nueva mentalidad que se materialice en  la b&uacute;squeda de nuevos nichos de demanda hasta ahora despreciados, y en la  utilizaci&oacute;n de nuevas t&eacute;cnicas de comunicaci&oacute;n.</p><p>Por  tanto, <strong>es necesaria una mayor actividad y diferenciaci&oacute;n</strong> en las t&eacute;cnicas  de comercializaci&oacute;n, al mismo tiempo con un coste lo m&aacute;s ajustado posible. En  este sentido, <strong>WHITE SAND RESORTS puede ofrecer alternativas interesantes en  marketing on-line y en el establecimiento de canales alternativos, tanto a  nivel nacional como internacional.</strong></p><p>Por otro  lado, cada vez m&aacute;s <strong>aumentan las transacciones entre Espa&ntilde;a y Portugal</strong>, y  en el sector inmobiliario sucede lo mismo.</p><p>El  mercado espa&ntilde;ol resulta muy apetecible para muchos promotores portugueses, que,  sin embargo, no tienen facilidad para acceder a &eacute;l. Por otro lado, aumenta el  n&uacute;mero de espa&ntilde;oles que buscan huir de un modelo evidentemente m&aacute;s masificado  como es el espa&ntilde;ol, y <strong>Portugal, por su proximidad, facilidad, etc., se  convierte en la alternativa m&aacute;s interesante para comprar una segunda residencia</strong>.</p><p>Adem&aacute;s,  nuestra cartera de promociones en Espa&ntilde;a y Portugal permitir&aacute; a nuestros  clientes elegir entre una selecta gama de productos diferenciados. <strong>Siempre</strong> acompa&ntilde;amos y asesoramos al  cliente durante todo el proceso de compra, tanto en el mercado espa&ntilde;ol como en  el portugu&eacute;s.</p><p>Le  invitamos a visitar nuestra web, y en el caso de encontrar cualquier producto  de su inter&eacute;s o querer cualquier aclaraci&oacute;n, no dude en contactar con nosotros  a trav&eacute;s de nuestro formulario o en nuestro n&uacute;mero de tel&eacute;fono.</p>"
+
+#: version 1/sitemap.php:9
+msgid "Mapa del Sitio"
+msgstr ""
+
+#: version 1/sitemap.php:12
+msgid "Inicio"
+msgstr ""
+
+#: version 1/sitemap.php:13
+#: 1/zonas.php:10
+msgid "Zonas"
+msgstr ""
+
+#: version 1/sitemap.php:27
+msgid "Colabora con nosotros"
+msgstr ""
+
+#: version 1/usados.php:29
+msgid "Segunda mano"
+msgstr "Turismo"
+
+#: version 1/usados.php:40
+msgid "Ver las obras nuevas en esta zona"
+msgstr ""
+
+#: version 1/apartamentos/listado.inc.php:198
+msgid "No hay apartamentos cargados para esta zona"
+msgstr ""
+
+#: version 1/apartamentos/listado.inc.php:202
+msgid "No hay apartamentos que coincidan con la búsqueda"
+msgstr ""
+
+#: version 1/includes/foot.php:4
+msgid "Mapa del sitio"
+msgstr ""
+
+#: version 1/includes/header.php:5
+msgid "Avalia Inmobiliaria"
+msgstr ""
+
+#: version 1/includes/header.php:21
+msgid "Idioma:"
+msgstr ""
+
+#: version 1/includes/header.php:34
+msgid "902 658 655 / Contacto"
+msgstr ""
+
+#: version 1/includes/header.php:43
+msgid "Casas a precios"
+msgstr "  "
+
+#: version 1/includes/header.php:43
+msgid "de hoy u otro claim"
+msgstr "  "
+
+#: version 1/scripts/buscador.php:7
+msgid "Debes ingresar como mínimo un dato a buscar"
+msgstr ""
+
+#: version 1/scripts/buscador.php:18
+msgid "El precio máximo debe ser mayor al precio mínimo"
+msgstr ""
+
+#: version 1/scripts/buscador.php:24
+msgid "ingrese el precio mínimo y máximo para realizar la búsqueda por precios"
+msgstr ""
+
+#: version 1/scripts/buscador.php:39
+#: 1/scripts/buscador.php:71
+msgid "Ingrese su nombre"
+msgstr ""
+
+#: version 1/scripts/buscador.php:43
+#: 1/scripts/buscador.php:75
+msgid "Ingrese su dirección de correo"
+msgstr ""
+
+#: version 1/scripts/buscador.php:47
+#: 1/scripts/buscador.php:79
+#: 1/scripts/buscador.php:92
+msgid "El correo ingresado es incorrecto o está mal escrito"
+msgstr ""
+
+#: version 1/scripts/buscador.php:51
+msgid "Ingrese su mensaje"
+msgstr ""
+
+#: version 1/scripts/buscador.php:84
+msgid "Ingrese el nombre de su amigo"
+msgstr ""
+
+#: version 1/scripts/buscador.php:88
+msgid "Ingrese la dirección de correo de su amigo"
+msgstr ""
+
