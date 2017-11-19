@@ -1,1 +1,0 @@
-<?phpsession_start();if($_GET['img']){$img = substr($_GET['img'],5);	header("Content-type: ".$_SESSION['tmptipo'.$img] );print $_SESSION['tmpimg'.$img];unset($_SESSION['tmpimg'.$img],$_SESSION['tmptipo'.$img]);}?>
